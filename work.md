@@ -18,6 +18,7 @@ Offline
 Servers:
 eaglercrafts.minehut.gg
 EalglerBirdss.falixsrv.me
+zentic.cc
 
 Others:
 https://sd592g.github.io/zj684od4lfg/
